@@ -1,4 +1,5 @@
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/ccba159a-f58a-4b9b-b004-184480c3e2fc)
+
 
 # Discord Bot com Integração OpenAI
 
