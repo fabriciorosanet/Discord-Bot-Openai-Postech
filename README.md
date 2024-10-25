@@ -49,7 +49,7 @@ O bot responde automaticamente quando mencionado, utilizando um modelo da OpenAI
 1. O bot será iniciado e ficará online, pronto para receber comandos.
 2. Sempre que for mencionado em uma mensagem, o bot processará o conteúdo da mensagem e responderá automaticamente utilizando a API da OpenAI.
 
-## Função importante
+## Funções importantes
 
 - Função generate_openai_response(prompt): Conecta-se à API da OpenAI e gera uma resposta para o prompt fornecido
 - Função on_message: Monitora as mensagens recebidas, e se o bot for mencionado, extrai o conteúdo e envia a resposta gerada para o canal.
